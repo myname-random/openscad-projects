@@ -13,6 +13,11 @@ An extended cover for the Creality K2 Plus exhaust fans that supports a 10cm x 1
 
 4. To ensure easy removal of the supports without damaging the clip or feet, a compatible support filament is recommended for the interface layers.
 
+## Filter
+
+I used the following filter, but not the black pre-filter.
+https://www.aliexpress.us/item/3256805557384214.html
+
 ## OpenSCAD Setup
 
 To modify the model, you will need:
